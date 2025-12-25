@@ -3,6 +3,8 @@
 This repository contains a **Frontend Development Roadmap** designed to guide beginners step-by-step in learning frontend technologies.  
 It covers essential concepts, tools, and best practices required to become a frontend developer.
 
+The road Map im following is 
+https://roadmap.sh/projects/single-page-cv
 ---
 
 ## 🎯 Purpose
